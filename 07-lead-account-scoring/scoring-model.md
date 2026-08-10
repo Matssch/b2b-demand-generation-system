@@ -1,7 +1,6 @@
 # Lead & Account Scoring Model
 ## Not every lead deserves Sales attention
 A common demand generation problem is treating every conversion as equally valuable. A form submission tells us that someone did something. It does not tell us:
-
 - Whether the company fits the ICP
 - Whether the account has commercial value
 - Whether buying intent is strong
@@ -12,24 +11,15 @@ The scoring model therefore combines:
 
 **Fit + Intent + Engagement + Value**
 
-The objective is not to build a complicated score.
-
-The objective is to help Marketing and Sales make better prioritisation decisions.
+The objective is not to build a complicated score. The objective is to help Marketing and Sales make better prioritisation decisions.
 
 ---
 
 ## 1. Separate lead score from account score
-
-In B2B, one person rarely tells the full story.
-
-A useful model looks at two levels.
+In B2B, one person rarely tells the full story. A useful model looks at two levels.
 
 ### Lead level
-
-What is this individual doing?
-
-Examples:
-
+What is this individual doing? Examples:
 - Content engagement
 - Form submission
 - Webinar attendance
@@ -37,11 +27,7 @@ Examples:
 - High-intent page visits
 
 ### Account level
-
-What is happening across the company?
-
-Examples:
-
+What is happening across the company? Examples:
 - Multiple engaged contacts
 - Strong ICP fit
 - Buying-group coverage
@@ -54,12 +40,7 @@ The stronger unit for larger B2B opportunities is usually the account.
 ---
 
 ## 2. Fit score
-
-Fit answers:
-
-> Is this the type of company we actually want to win?
-
-Possible factors include:
+Fit answers: Is this the type of company we actually want to win? Possible factors include:
 
 | Signal | Example points |
 |---|---:|
@@ -71,19 +52,12 @@ Possible factors include:
 | Relevant technology / maturity | +10 |
 | Strategic account | +15 |
 
-Example maximum:
-
-**100 fit points**
-
-The exact model depends on the business.
+Example maximum: **100 fit points**. The exact model depends on the business.
 
 ---
 
 ## 3. Negative fit
-
-Scoring should also reduce priority when the account is unlikely to create value.
-
-Examples:
+Scoring should also reduce priority when the account is unlikely to create value. Examples:
 
 | Signal | Example points |
 |---|---:|
@@ -94,18 +68,13 @@ Examples:
 | Student / personal email | -10 |
 | Existing disqualified account | -50 |
 
-This prevents high engagement from hiding poor commercial fit.
-
-A low-fit company downloading five reports is still a low-fit company.
+This prevents high engagement from hiding poor commercial fit. A low-fit company downloading five reports is still a low-fit company.
 
 ---
 
 ## 4. Intent score
 
-Intent answers:
-
-> Is the account showing behaviour that suggests a buying process may be developing?
-
+Intent answers: Is the account showing behaviour that suggests a buying process may be developing?
 Possible signals:
 
 | Behaviour | Example points |
@@ -126,11 +95,7 @@ Intent signals should receive different weight depending on how closely they rel
 
 ## 5. Engagement score
 
-Engagement answers:
-
-> How deeply is the account interacting with us?
-
-Example:
+Engagement answers: How deeply is the account interacting with us? Example:
 
 | Engagement signal | Example points |
 |---|---:|
@@ -142,17 +107,13 @@ Example:
 | Multiple content interactions | +10 |
 | Multiple contacts engaged | +15 |
 
-This allows engagement to build over time.
-
-But engagement should not automatically outweigh fit.
+This allows engagement to build over time. But engagement should not automatically outweigh fit.
 
 ---
 
 ## 6. Buying-group score
 
-For larger accounts, stakeholder coverage becomes important.
-
-Example:
+For larger accounts, stakeholder coverage becomes important. Example:
 
 | Buying-group signal | Example points |
 |---|---:|
@@ -164,20 +125,13 @@ Example:
 | 3+ relevant contacts engaged | +15 |
 | Executive sponsor engaged | +20 |
 
-This makes the scoring model more account-focused.
-
-One highly active junior contact may be interesting.
-
-Several relevant stakeholders engaging is much more meaningful.
+This makes the scoring model more account-focused. One highly active junior contact may be interesting. Several relevant stakeholders engaging is much more meaningful.
 
 ---
 
 ## 7. Commercial value score
 
-Some accounts justify more investment than others.
-
-Possible factors include:
-
+Some accounts justify more investment than others. Possible factors include:
 - Expected contract value
 - Expansion potential
 - Retention potential
@@ -199,14 +153,7 @@ This helps prevent Marketing from optimising only for easiest conversion.
 ---
 
 ## 8. Combined account score
-
-A simple model could be:
-
-**Account Priority Score**
-
-=
-
-**Fit + Intent + Engagement + Buying-group + Commercial value**
+A simple model could be: **Account Priority Score** = **Fit + Intent + Engagement + Buying-group + Commercial value**
 
 Example:
 
@@ -219,9 +166,7 @@ Example:
 | Commercial value | 30 | 10 |
 | Total | **270** | **220** |
 
-Account B is highly active.
-
-But Account A may still deserve more commercial attention because it has:
+Account B is highly active. But Account A may still deserve more commercial attention because it has:
 
 - Stronger fit
 - Better buying-group coverage
@@ -232,39 +177,26 @@ This is why raw engagement should not drive prioritisation alone.
 ---
 
 ## 9. Use scoring bands
+The score should translate into an action. For example:
 
-The score should translate into an action.
+### Tier A | Priority now
 
-For example:
-
-### Tier A — Priority now
-
-High fit + strong intent.
-
-Action:
-
+High fit + strong intent. Action:
 - Sales notification
 - Account review
 - Fast follow-up
 - Buying-group analysis
 - Personalised support
 
-### Tier B — Developing demand
-
-Strong fit, but intent still developing.
-
-Action:
-
+### Tier B | Developing demand
+Strong fit, but intent still developing. Action:
 - Nurture
 - Retargeting
 - Relevant content
 - Monitor account engagement
 
-### Tier C — Low priority
-
-Weak fit or weak commercial value.
-
-Action:
+### Tier C | Low priority
+Weak fit or weak commercial value. Action:
 
 - Automated nurture
 - No immediate Sales intervention
@@ -274,43 +206,22 @@ The thresholds should be validated against actual opportunity data.
 ---
 
 ## 10. Scoring by segment
-
 The threshold should not necessarily be identical for every segment.
 
 ### Smaller accounts
-
-The motion may remain highly automated.
-
-A strong score could trigger:
-
-**Conversion → automated onboarding**
+The motion may remain highly automated. A strong score could trigger: **Conversion → automated onboarding**
 
 ### Mid-market
-
-A strong score could trigger:
-
-**Qualification → Sales**
+A strong score could trigger: **Qualification → Sales**
 
 ### Strategic accounts
-
-A strong score could trigger:
-
-**Account review → Sales + Marketing coordination**
-
+A strong score could trigger: **Account review → Sales + Marketing coordination**
 This is another reason to connect scoring to segmentation.
 
 ---
 
 ## 11. Score decay
-
-Old behaviour should not always remain equally valuable.
-
-Someone who visited a pricing page yesterday is different from someone who visited it nine months ago.
-
-A more mature model would use score decay.
-
-Example:
-
+Old behaviour should not always remain equally valuable. Someone who visited a pricing page yesterday is different from someone who visited it nine months ago. A more mature model would use score decay. Example:
 - Last 7 days → 100% value
 - 8–30 days → 75%
 - 31–60 days → 50%
@@ -321,15 +232,7 @@ This helps the model reflect current momentum.
 ---
 
 ## 12. Avoid scoring theatre
-
-Scoring can become unnecessarily complicated.
-
-A model with 75 behavioural rules may look sophisticated but still fail to predict opportunity creation.
-
-I would start relatively simple.
-
-Then compare scores with actual outcomes:
-
+Scoring can become unnecessarily complicated. A model with 75 behavioural rules may look sophisticated but still fail to predict opportunity creation. I would start relatively simple. Then compare scores with actual outcomes:
 - Sales acceptance
 - Opportunity creation
 - Deal size
@@ -342,11 +245,7 @@ If a signal does not help predict commercial quality, reduce or remove it.
 ---
 
 ## 13. Sales feedback is part of the model
-
-Marketing should not define scoring alone.
-
-Sales can provide important feedback:
-
+Marketing should not define scoring alone. Sales can provide important feedback:
 - Was this lead actually relevant?
 - Was the account ready?
 - Was the right stakeholder involved?
@@ -355,62 +254,24 @@ Sales can provide important feedback:
 
 This creates:
 
-**Score**
-
-↓
-
-**Sales action**
-
-↓
-
-**Commercial outcome**
-
-↓
-
-**Feedback**
-
-↓
-
-**Better scoring**
+**Score** → **Sales action** → **Commercial outcome** → **Feedback** → **Better scoring**
 
 The scoring system should learn from real Sales outcomes.
 
 ---
 
 ## 14. Example operational logic
-
 A practical workflow could be:
 
-**Account enters CRM**
-
-↓
-
-**ICP fit calculated**
-
-↓
-
-**Behaviour and engagement added**
-
-↓
-
-**Buying-group signals added**
-
-↓
-
-**Priority score updated**
-
-↓
+**Account enters CRM** → **ICP fit calculated** → **Behaviour and engagement added** → **Buying-group signals added** → **Priority score updated** → 
 
 ### If high score
-
 Sales receives account + context.
 
 ### If medium score
-
 Marketing nurture continues.
 
 ### If low score
-
 Remain automated or deprioritised.
 
 The important part is that the score creates a clear next action.
@@ -418,11 +279,7 @@ The important part is that the score creates a clear next action.
 ---
 
 ## 15. What Sales should receive
-
-A high score alone is not enough.
-
-When Marketing passes an account, Sales should ideally see:
-
+A high score alone is not enough. When Marketing passes an account, Sales should ideally see:
 - Company
 - Segment
 - ICP fit
@@ -439,9 +296,6 @@ This gives Sales context instead of another anonymous MQL.
 ---
 
 ## Core principle
+**Scoring should prioritise commercial opportunity, not reward digital activity.**
 
-> **Scoring should prioritise commercial opportunity, not reward digital activity.**
-
-The best scoring model helps answer one question:
-
-**Where should Marketing and Sales invest their next unit of attention?**
+The best scoring model helps answer one question: **Where should Marketing and Sales invest their next unit of attention?**
