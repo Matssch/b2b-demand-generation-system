@@ -1,7 +1,6 @@
 # Market Opportunity
 
 ## Start with the market, not the campaign
-
 Demand generation should not begin with: Which campaign should we launch?
 It should begin with:Where is there a commercially attractive problem we can realistically win?
 
@@ -12,10 +11,7 @@ A strong demand generation engine therefore starts by understanding the market b
 ---
 
 ## 1. Define the market
-
-The first step is understanding the total market around the product or service.
-
-This includes questions such as:
+The first step is understanding the total market around the product or service. This includes questions such as:
 
 - Which companies could theoretically buy?
 - Which industries have the strongest need?
@@ -25,34 +21,15 @@ This includes questions such as:
 - Which problems are urgent enough to trigger buying behaviour?
 - How mature is the category?
 
-This gives us the broad market.
-
-But a large market does not automatically mean a good growth opportunity.
+This gives us the broad market, but a large market does not automatically mean a good growth opportunity.
 
 ---
 
 ## 2. Identify the commercial problem
-
-The next question is:
-
-> Which problem are we actually solving?
-
+The next question is: Which problem are we actually solving?
 The best demand generation opportunities usually sit where four things overlap:
 
-**Problem severity**
-
-×
-
-**Commercial value**
-
-×
-
-**Ability to reach the buyer**
-
-×
-
-**Ability to win**
-
+**Problem severity** → **Commercial value** → **Ability to reach the buyer** → **Ability to win**
 For example, a company may technically fit the product, but if:
 
 - the problem is weak,
@@ -65,15 +42,12 @@ then the segment may not deserve significant marketing investment.
 ---
 
 ## 3. Separate market size from market attractiveness
-
-A useful distinction is:
+A useful distinction is: 
 
 ### Market size
-
 How many potential companies exist?
 
 ### Market attractiveness
-
 How commercially interesting are those companies?
 
 I would evaluate market attractiveness using factors such as:
@@ -94,10 +68,7 @@ This helps prevent Marketing from chasing large but commercially weak audiences.
 ---
 
 ## 4. Segment the opportunity
-
-Once the market is understood, I would break it into meaningful commercial segments.
-
-A simple B2B segmentation could look like:
+Once the market is understood, I would break it into meaningful commercial segments. A simple B2B segmentation could look like:
 
 | Segment | Typical motion | Marketing role | Sales role |
 |---|---|---|---|
@@ -110,15 +81,12 @@ The exact segment boundaries depend on the business.
 For example:
 
 **1–20 employees**
-
 Primarily scalable digital acquisition.
 
 **21–50 employees**
-
 Hybrid Marketing and Sales journey.
 
 **50+ employees**
-
 Increasingly Sales-led and account-focused.
 
 This matters because the economics of each segment are different.
@@ -126,7 +94,6 @@ This matters because the economics of each segment are different.
 ---
 
 ## 5. Understand segment economics
-
 A larger customer may justify:
 
 - Higher acquisition cost
@@ -145,16 +112,11 @@ A smaller customer may require:
 - Scalable paid acquisition
 - Minimal Sales intervention
 
-This means demand generation should not optimise all segments against the same cost or conversion target.
-
-The question becomes:
-
-> What level of acquisition investment makes sense for this type of customer?
+This means demand generation should not optimise all segments against the same cost or conversion target. The question becomes: What level of acquisition investment makes sense for this type of customer?
 
 ---
 
 ## 6. Score market opportunities
-
 To make prioritisation more objective, I would use a simple opportunity score.
 
 Example:
@@ -166,31 +128,17 @@ Example:
 | Segment C | 2 | 5 | 2 | 2 | Low |
 | Segment D | 3 | 2 | 5 | 5 | Medium |
 
-The point is not mathematical precision.
+The point is not mathematical precision. The model creates a structured commercial discussion.
 
-The model creates a structured commercial discussion.
-
-Instead of:
-
-> I think this audience looks interesting.
-
-we can ask:
-
-> Why does this segment deserve investment relative to the alternatives?
+Instead of: I think this audience looks interesting. We can ask:Why does this segment deserve investment relative to the alternatives?
 
 ---
 
 ## 7. Market opportunity also changes by buying stage
-
-Even inside an attractive market, not every company is ready to buy.
-
-I separate:
+Even inside an attractive market, not every company is ready to buy. I separate:
 
 ### In-market demand
-
-Companies already experiencing active buying intent.
-
-These can often be captured through:
+Companies already experiencing active buying intent. These can often be captured through:
 
 - Search
 - Comparison content
@@ -200,10 +148,7 @@ These can often be captured through:
 - Sales outreach triggered by intent
 
 ### Future demand
-
-Companies that fit the market but are not actively buying yet.
-
-These require:
+Companies that fit the market but are not actively buying yet. These require:
 
 - Education
 - Problem awareness
@@ -214,101 +159,39 @@ These require:
 - Partnerships
 - Account-based campaigns
 
-This creates two different growth jobs:
-
-**Capture existing demand**
-
-and
-
-**Create future demand**
+This creates two different growth jobs: **Capture existing demand** and **Create future demand**
 
 ---
 
 ## 8. Connect market opportunity to pipeline potential
+The goal is not simply to estimate how many accounts exist. We want to estimate what those accounts could mean commercially. A simple model could be:
 
-The goal is not simply to estimate how many accounts exist.
+**Target accounts** → **Expected engagement rate** → **Qualification rate** → **Opportunity rate** → **Average deal value** → **Potential pipeline**
 
-We want to estimate what those accounts could mean commercially.
-
-A simple model could be:
-
-**Target accounts**
-
-×
-
-**Expected engagement rate**
-
-×
-
-**Qualification rate**
-
-×
-
-**Opportunity rate**
-
-×
-
-**Average deal value**
-
-=
-
-**Potential pipeline**
-
-This does not predict the future perfectly.
-
-It creates a commercial hypothesis that Marketing and Sales can test.
+This does not predict the future perfectly. It creates a commercial hypothesis that Marketing and Sales can test.
 
 ---
 
 ## Example
-
-Imagine a target market containing:
-
-**2,000 relevant accounts**
+Imagine a target market containing: **2,000 relevant accounts**
 
 If:
-
 - 25% engage with Marketing
 - 20% of engaged accounts become qualified
 - 25% of qualified accounts become opportunities
 - Average opportunity value is €20,000
 
-Then:
+Then: 
+**2,000 target accounts** → **500 engaged** → **100 qualified** → **25 opportunities** → **€500K potential pipeline**
 
-**2,000 target accounts**
-
-↓
-
-**500 engaged**
-
-↓
-
-**100 qualified**
-
-↓
-
-**25 opportunities**
-
-↓
-
-**€500K potential pipeline**
-
-The purpose of the model is not to claim certainty.
-
-It is to make assumptions visible.
-
-We can then improve those assumptions using actual performance data.
+The purpose of the model is not to claim certainty. It is to make assumptions visible. We can then improve those assumptions using actual performance data.
 
 ---
 
 ## 9. Market opportunity should influence budget
-
-Once the strongest market opportunities are identified, budget can follow the opportunity.
-
-For example:
+Once the strongest market opportunities are identified, budget can follow the opportunity. For example:
 
 ### High-volume / lower-value segment
-
 Investment may favour:
 
 - Paid Search
@@ -318,7 +201,6 @@ Investment may favour:
 - Automated lifecycle
 
 ### Mid-market
-
 Investment may shift toward:
 
 - Paid acquisition
@@ -329,7 +211,6 @@ Investment may shift toward:
 - Retargeting
 
 ### Strategic accounts
-
 Investment may include:
 
 - Account-based campaigns
@@ -339,14 +220,11 @@ Investment may include:
 - Sales collaboration
 - Partnerships
 
-The channel mix should follow the commercial motion.
-
-Not the other way around.
+The channel mix should follow the commercial motion. Not the other way around.
 
 ---
 
 ## 10. The output of market analysis
-
 Before moving into ICP design, I want five things to be clear:
 
 1. **Where is the market opportunity?**
@@ -360,41 +238,13 @@ Only then should we define the ideal customer more precisely.
 ---
 
 ## Market opportunity framework
-
 The complete model becomes:
 
-**Total market**
+**Total market** → **Relevant market** → **Commercial problem** → **Attractive segments** → **Buying motion** → **Pipeline potential** → **ICP**
 
-↓
-
-**Relevant market**
-
-↓
-
-**Commercial problem**
-
-↓
-
-**Attractive segments**
-
-↓
-
-**Buying motion**
-
-↓
-
-**Pipeline potential**
-
-↓
-
-**ICP**
-
-This prevents the ICP from becoming a fictional persona exercise.
-
-The ICP becomes a commercial decision about **where the company has the strongest chance of creating profitable growth**.
+This prevents the ICP from becoming a fictional persona exercise. The ICP becomes a commercial decision about **where the company has the strongest chance of creating profitable growth**.
 
 ---
 
 ## Core principle
-
-> **The best target market is not necessarily the biggest market. It is the market where customer need, commercial value and ability to win overlap.**
+**The best target market is not necessarily the biggest market. It is the market where customer need, commercial value and ability to win overlap.**
