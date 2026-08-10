@@ -1,7 +1,6 @@
 # Ideal Customer Profile
 
 ## ICP is a commercial filter
-
 An Ideal Customer Profile should not be a vague description of a company we would like to work with. Its purpose is to answer: **Which companies are most likely to need the solution, successfully buy it and create meaningful commercial value?**
 
 A strong ICP helps Marketing and Sales decide where to invest. The basic logic is:
